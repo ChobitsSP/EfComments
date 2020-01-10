@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfComments", "EfComments\EfComments.csproj", "{88B1F6D2-4781-48A9-B2CA-FE0EE9911148}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbUtils", "DbUtils\DbUtils.csproj", "{4089315C-F342-46A3-8EB6-FE409786F03F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{88B1F6D2-4781-48A9-B2CA-FE0EE9911148}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88B1F6D2-4781-48A9-B2CA-FE0EE9911148}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88B1F6D2-4781-48A9-B2CA-FE0EE9911148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4089315C-F342-46A3-8EB6-FE409786F03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4089315C-F342-46A3-8EB6-FE409786F03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4089315C-F342-46A3-8EB6-FE409786F03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4089315C-F342-46A3-8EB6-FE409786F03F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
